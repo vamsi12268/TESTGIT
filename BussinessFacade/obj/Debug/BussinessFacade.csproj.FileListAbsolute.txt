@@ -1,0 +1,11 @@
+D:\wwwroot\SocietyApplication\BussinessFacade\bin\Debug\BussinessFacade.dll
+D:\wwwroot\SocietyApplication\BussinessFacade\bin\Debug\BussinessFacade.pdb
+D:\wwwroot\SocietyApplication\BussinessFacade\bin\Debug\Common.dll
+D:\wwwroot\SocietyApplication\BussinessFacade\bin\Debug\DataAccess.dll
+D:\wwwroot\SocietyApplication\BussinessFacade\bin\Debug\log4net.dll
+D:\wwwroot\SocietyApplication\BussinessFacade\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\wwwroot\SocietyApplication\BussinessFacade\bin\Debug\Common.pdb
+D:\wwwroot\SocietyApplication\BussinessFacade\bin\Debug\DataAccess.pdb
+D:\wwwroot\SocietyApplication\BussinessFacade\obj\Debug\BussinessFacade.csprojResolveAssemblyReference.cache
+D:\wwwroot\SocietyApplication\BussinessFacade\obj\Debug\BussinessFacade.dll
+D:\wwwroot\SocietyApplication\BussinessFacade\obj\Debug\BussinessFacade.pdb
