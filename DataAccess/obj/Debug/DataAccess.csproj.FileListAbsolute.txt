@@ -1,0 +1,9 @@
+D:\wwwroot\SocietyApplication\DataAccess\bin\Debug\DataAccess.dll
+D:\wwwroot\SocietyApplication\DataAccess\bin\Debug\DataAccess.pdb
+D:\wwwroot\SocietyApplication\DataAccess\bin\Debug\Common.dll
+D:\wwwroot\SocietyApplication\DataAccess\bin\Debug\log4net.dll
+D:\wwwroot\SocietyApplication\DataAccess\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\wwwroot\SocietyApplication\DataAccess\bin\Debug\Common.pdb
+D:\wwwroot\SocietyApplication\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\wwwroot\SocietyApplication\DataAccess\obj\Debug\DataAccess.dll
+D:\wwwroot\SocietyApplication\DataAccess\obj\Debug\DataAccess.pdb

@@ -1,0 +1,5 @@
+D:\wwwroot\SocietyApplication\Common\bin\Debug\Common.dll
+D:\wwwroot\SocietyApplication\Common\bin\Debug\Common.pdb
+D:\wwwroot\SocietyApplication\Common\obj\Debug\Common.dll
+D:\wwwroot\SocietyApplication\Common\obj\Debug\Common.pdb
+D:\wwwroot\SocietyApplication\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
